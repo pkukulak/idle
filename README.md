@@ -8,4 +8,4 @@ A colour scheme for vim based on the popular Python IDE, IDLE.
 # todo
 
 - [ ] fix colors for gui-VIM
-- [ ] full plugin that includeds ctags/easytags for tag highlighting
+- [ ] full plugin that includes ctags/easytags for tag highlighting
