@@ -5,6 +5,16 @@ A colour scheme for vim based on the popular Python IDE, IDLE.
   <img src=https://github.com/pkukulak/idle/blob/master/snap.png width="500">
 </p>
 
+# install
+place the file `idle.vim` in your `$HOME/.vim/colors` directory.
+add this line to your `.vimrc`:
+
+  ```colorscheme idle```
+  
+or, in normal mode,
+
+  ```:colorscheme idle```
+
 # todo
 
 - [ ] fix colors for gui-VIM
