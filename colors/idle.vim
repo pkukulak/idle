@@ -28,7 +28,7 @@ endif
 hi Cursor          guifg=NONE    guibg=#626262 gui=none ctermbg=241
 hi Normal          guifg=#ffffff guibg=#111111 gui=none ctermfg=015 ctermbg=black
 hi NonText         guifg=#808080 guibg=#262626 gui=none ctermfg=244 ctermbg=235
-hi LineNr          guifg=#000000 gui=bold guibg=#5fafff gui=none ctermfg=075 ctermbg=black cterm=bold
+hi LineNr          guifg=#ffffff gui=bold guibg=#5fafff gui=none ctermfg=075 ctermbg=black cterm=bold
 hi StatusLine      guifg=#dadada guibg=#444444 gui=none ctermfg=253 ctermbg=238
 hi StatusLineNC    guifg=#949494 guibg=#444444 gui=none ctermfg=246 ctermbg=238
 hi VertSplit       guifg=#444444 guibg=#303030 gui=none ctermfg=238 ctermbg=238
